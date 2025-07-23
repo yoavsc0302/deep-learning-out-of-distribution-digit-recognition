@@ -2,6 +2,8 @@
 
 This project addresses the Out-of-Distribution (OOD) detection problem using deep learning on the MNIST dataset. It combines a convolutional neural network (CNN) with clustering-based outlier detection in embedding space to classify known digits and reject unknown or unexpected inputs.
 
+For a complete technical explanation of the model, methodology, and experimental findings, see [`Project_Summary.pdf`](./Project_Summary.pdf).
+
 ## 🧠 Approach Summary
 
 - **CNN Feature Extractor**: Learns compact representations of digit images.
